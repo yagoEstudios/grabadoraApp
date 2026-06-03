@@ -5,3 +5,5 @@
 # Grabadora de Sonido
 
 App Android para grabar audio desde el micrófono del dispositivo. Guarda las grabaciones localmente en el almacenamiento del teléfono.
+
+[⬇ Descargar APK](https://github.com/yagoEstudios/grabadoraApp/releases)
