@@ -1,0 +1,24 @@
+<svg width="1024" height="1024" viewBox="0 0 1024 1024" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#E84C4C"/>
+      <stop offset="1" stop-color="#A81C1C"/>
+    </linearGradient>
+  </defs>
+  <rect x="0" y="0" width="1024" height="1024" rx="220" fill="url(#bg)"/>
+  <!-- cápsula del micrófono -->
+  <rect x="392" y="200" width="240" height="320" rx="120" fill="#FFFFFF"/>
+  <!-- arco de captura -->
+  <path d="M 290 460 Q 290 660 512 660 Q 734 660 734 460"
+        fill="none" stroke="#FFFFFF" stroke-width="44" stroke-linecap="round"/>
+  <!-- palo -->
+  <line x1="512" y1="660" x2="512" y2="770" stroke="#FFFFFF" stroke-width="44" stroke-linecap="round"/>
+  <!-- base -->
+  <rect x="362" y="770" width="300" height="44" rx="22" fill="#FFFFFF"/>
+  <!-- ondas de sonido izquierda -->
+  <path d="M 220 410 Q 185 510 220 610" fill="none" stroke="#FFFFFF" stroke-width="34" stroke-linecap="round" opacity="0.6"/>
+  <path d="M 155 370 Q 100 510 155 650" fill="none" stroke="#FFFFFF" stroke-width="28" stroke-linecap="round" opacity="0.35"/>
+  <!-- ondas de sonido derecha -->
+  <path d="M 804 410 Q 839 510 804 610" fill="none" stroke="#FFFFFF" stroke-width="34" stroke-linecap="round" opacity="0.6"/>
+  <path d="M 869 370 Q 924 510 869 650" fill="none" stroke="#FFFFFF" stroke-width="28" stroke-linecap="round" opacity="0.35"/>
+</svg>

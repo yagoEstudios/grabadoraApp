@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="white">#FFFFFFFF</color>
+    <color name="black">#FF000000</color>
+    <color name="blue">#2F6BFF</color>
+    <color name="blue_dark">#1B4FD6</color>
+    <color name="blue_soft">#E8EFFF</color>
+    <color name="record_red">#FF453A</color>
+    <color name="waveform">#2F6BFF</color>
+    <color name="bg_light">#F5F7FB</color>
+</resources>
